@@ -2,8 +2,8 @@
   <MaxWidth>
     <header
       class="
-        py-8
-        px-4
+        py-6
+        px-2
         sm:px-0
         sm:pt-20
         sm:pb-10
